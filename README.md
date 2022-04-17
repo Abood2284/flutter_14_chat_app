@@ -23,5 +23,5 @@ A new Flutter project created under the guidance of udemy course section 14
 
 ## What i Created
 
-<image src ="images/1.png" width="200" height="400"> <image src ="images/2.png" width="200" height="400">
-<image src ="images/3.png" width="200" height="400">
+<image src ="image/1.png" width="200" height="400"> <image src ="image/2.png" width="200" height="400">
+<image src ="image/3.png" width="200" height="400">
